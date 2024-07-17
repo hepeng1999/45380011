@@ -1,0 +1,7 @@
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\bin\Debug\45380011HePengCode.exe.config
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\bin\Debug\45380011HePengCode.exe
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\bin\Debug\45380011HePengCode.pdb
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\obj\Debug\45380011HePengCode.csproj.AssemblyReference.cache
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\obj\Debug\45380011HePengCode.csproj.CoreCompileInputs.cache
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\obj\Debug\45380011HePengCode.exe
+C:\Users\13631\Desktop\45380011何鹏\45380011HePengCode\45380011HePengCode\obj\Debug\45380011HePengCode.pdb
